@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SHANNON_SQLEXPRESS.TRADEProd_STG"
+  DTS:DTSID="{5CAF435B-63C3-46ED-BE9E-2D07345FAFF0}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SHANNON\SQLEXPRESS;Initial Catalog=TRADEProd_STG;Integrated Security=True;Application Name=SSIS-TRADEProdDataBaseCourse-{5CAF435B-63C3-46ED-BE9E-2D07345FAFF0}SHANNON\SQLEXPRESS.TRADEProd_STG;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
